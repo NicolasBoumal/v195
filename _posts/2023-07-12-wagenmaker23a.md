@@ -25,6 +25,7 @@ abstract: We consider the development of adaptive, instance-dependent algorithms
   guarantees, and ii) under certain technical conditions, boundedness of the Allocation-Estimation
   Coefficient is necessary to learn an instance-optimal allocation of decisions in
   finite time.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

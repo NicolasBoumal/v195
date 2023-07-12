@@ -20,6 +20,7 @@ abstract: "   Min-max optimization problems involving nonconvex-nonconcave objec
   potential function, such as the distance of its iterate from the set of local min-max
   equilibria or the projected gradient of the objective, but is designed to satisfy
   a topological property that guarantees the avoidance of cycles and implies its convergence."
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

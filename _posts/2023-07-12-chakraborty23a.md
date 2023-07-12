@@ -34,6 +34,7 @@ abstract: 'Distribution testing is a central part of property testing, with appl
   general non-index-invariant properties. Finally, we provide an index-invariant property
   for which the quadratic gap between adaptive and non-adaptive query complexities
   for testing is almost tight.'
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

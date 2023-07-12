@@ -22,6 +22,7 @@ abstract: In this paper, we consider the tensor-on-tensor association detection 
   on signal detection in linear regression and low-rank matrix trace regression. Finally,
   the connection on the computational hardness of the detection problem and the corresponding
   estimation problem is discussed.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

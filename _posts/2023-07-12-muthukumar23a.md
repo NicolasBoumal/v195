@@ -10,6 +10,7 @@ abstract: Deep artificial neural networks achieve surprising generalization abil
   the model, and it improves over recent norm-based approaches. We  illustrate our
   results numerically, demonstrating non-vacuous bounds when coupled with data-dependent
   priors even in over-parametrized settings.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

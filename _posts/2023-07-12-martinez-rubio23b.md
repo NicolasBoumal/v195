@@ -14,6 +14,7 @@ abstract: "     It has recently been shown that ISTA, an unaccelerated optimizat
   while exploiting sparsity. Both algorithms lead to faster convergence for certain
   parameter regimes. Our findings apply beyond PageRank and work for any quadratic
   objective whose Hessian is a positive-definite $M$-matrix."
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

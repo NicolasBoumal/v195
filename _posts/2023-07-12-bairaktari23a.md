@@ -12,6 +12,7 @@ abstract: We investigate the computational efficiency of multitask learning of B
   model, but cannot be multitask learned efficiently—multitask learning this concept
   class either requires super-polynomial time complexity or a much larger total number
   of samples.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

@@ -17,6 +17,7 @@ abstract: 'Linear dynamical systems that obey stochastic differential equations 
   of stochastic integrals, and introduce the new method of policy differentiation.
   Our analysis sheds light on fundamental challenges in continuous-time reinforcement
   learning and suggests a useful cornerstone for similar problems.'
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

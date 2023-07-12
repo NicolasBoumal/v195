@@ -12,6 +12,7 @@ abstract: We study the problem of PAC learning $\gamma$-margin halfspaces with R
   sample complexity is inherent for computationally efficient algorithms.Specifically,
   our results imply a lower bound of $\widetilde{\Omega}(1/(\gamma^{1/2} \epsilon^2))$
   on the sample complexity of any efficient SQ learner or low-degree test.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

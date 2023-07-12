@@ -22,6 +22,7 @@ abstract: 'Recently, there has been significant progress in understanding the co
   in turn allow us to show that the gradient descent trajectory from small random
   initialization moves towards solutions that are both globally optimal and generalize
   well.'
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

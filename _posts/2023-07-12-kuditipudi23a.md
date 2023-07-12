@@ -9,6 +9,7 @@ abstract: We design an $(\varepsilon, \delta)$-differentially private algorithm 
   extends beyond sub-Gaussianity. Prior to this work, other methods required exponential
   computation time or the superlinear scaling $n = \Omega(d^{3/2})$ to achieve non-trivial
   error with respect to the norm $||\cdot||_\Sigma$.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

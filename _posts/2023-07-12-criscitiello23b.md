@@ -11,6 +11,7 @@ abstract: Let $f \colon \mathcal{M} \to \mathbb{R}$ be a Lipschitz and geodesica
   $\mathcal{M}$ has constant curvature (hemisphere or hyperbolic space). We then detail
   possible approaches and corresponding obstacles for designing an ellipsoid-like
   method for general Riemannian manifolds.
+section: Open Problems
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

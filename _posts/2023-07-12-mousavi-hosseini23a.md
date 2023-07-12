@@ -16,6 +16,7 @@ abstract: Langevin diffusions are rapidly convergent under appropriate functiona
   goes from being logarithmic, to polynomial, and then finally to being exponential.
   This three-step phase transition is in particular unavoidable as demonstrated by
   our lower bounds, clearly defining the boundaries of LMC.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

@@ -19,6 +19,7 @@ abstract: We show that computing approximate stationary Markov coarse correlated
   work advocates for the use of nonstationary Markov CCE policies as a computationally
   and statistically tractable solution concept in MARL, advancing an important and
   outstanding frontier in machine learning.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

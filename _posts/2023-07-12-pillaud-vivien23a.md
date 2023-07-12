@@ -10,6 +10,7 @@ abstract: Spectral clustering and diffusion maps are celebrated dimensionality r
   estimator we build can circumvent the curse of dimensionality. Finally we discuss
   techniques (Nyström subsampling, Fourier features) that enable to reduce the computational
   cost of the estimator while not degrading its overall performance.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

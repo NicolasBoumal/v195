@@ -15,6 +15,7 @@ abstract: We propose a globally-accelerated, first-order method for the optimiza
   operator, and is of independent interest. For smooth functions, we show we can implement
   the prox step inexactly with first-order methods in Riemannian balls of certain
   diameter that is enough for global accelerated optimization.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

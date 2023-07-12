@@ -15,6 +15,7 @@ abstract: We consider the problem of minimizing a non-convex function over a smo
   extend the analysis of Ablin and Peyré (2022), establishingnear-optimal rates both
   in deterministic and stochastic frameworks. Finally, we perform numerical experiments,
   which shows the efficiency of ODCGM in a high-dimensional setting.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

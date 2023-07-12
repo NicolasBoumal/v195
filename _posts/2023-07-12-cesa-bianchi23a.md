@@ -11,6 +11,7 @@ abstract: We study repeated bilateral trade where an adaptive $\sigma$-smooth ad
   we design an algorithm enjoying regret of order $T^{3/4}$ ignoring log factors.We
   prove that this rate is optimal by presenting a surprising $T^{3/4}$ lower bound,
   which is the main technical contribution of the paper.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

@@ -17,6 +17,7 @@ abstract: 'In online classification, a learner is presented with a sequence of e
   the number of mistakes must be at least $\Omega(d \log n)$, even when the points
   are drawn uniformly from the unit sphere and the learner only needs to predict the
   labels for $1%$ of them. '
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

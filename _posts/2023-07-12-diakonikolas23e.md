@@ -21,6 +21,7 @@ abstract: 'We demonstrate the first algorithms for the problem of regression for
   half the samples being arbitrarily corrupted. Prior work focused largely on the
   setting of linear regression with oblivious noise, and giving algorithms under more
   restrictive assumptions.  '
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

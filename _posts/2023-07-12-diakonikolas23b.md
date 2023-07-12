@@ -10,6 +10,7 @@ abstract: 'We study the complexity of learning mixtures of separated Gaussians w
   requires complexity at least  $d^{\Omega(1/\epsilon)}$. Our SQ lower bound implies
   a similar lower bound for low-degree polynomial tests. Our result provides evidence
   that known algorithms for this problem are nearly best possible. '
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

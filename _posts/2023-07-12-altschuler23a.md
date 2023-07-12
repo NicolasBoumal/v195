@@ -26,6 +26,7 @@ abstract: 'Sampling from a high-dimensional distribution is a fundamental task i
   which immediately implies mixing in all common metrics via standard comparison inequalities.
   Fourth, our approach exploits convexity only through the contractivity of a gradient
   step—reminiscent of how convexity is used in textbook proofs of Gradient Descent. '
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

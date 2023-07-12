@@ -15,6 +15,7 @@ abstract: We study the query complexity of geodesically convex (g-convex) optimi
   which includes subgradient descent, and a lower bound for a related game.  Lastly,
   to pinpoint the difficulty of proving lower bounds, we study how negative curvature
   influences (and sometimes obstructs) interpolation with g-convex functions.
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

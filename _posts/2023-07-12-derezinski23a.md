@@ -24,6 +24,7 @@ abstract: 'Algorithmic Gaussianization is a phenomenon that can arise when using
   our analysis is a novel variant of the Hanson-Wright inequality on the concentration
   of random quadratic forms, which we establish for random vectors that arise from
   sparse sketches.'
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR

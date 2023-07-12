@@ -20,6 +20,7 @@ abstract: 'Obtaining rigorous statistical guarantees for generalization under di
   bound for the rank-$k$ singular value decomposition approximations between two matrices
   that depends on the \emph{relative} spectral gap rather than the \emph{absolute}
   spectral gap, a result we think may be of broader independent interest.'
+section: Original Papers
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
