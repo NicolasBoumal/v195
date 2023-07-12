@@ -27,10 +27,10 @@ issn: 2640-3498
 id: simchowitz23a
 month: 0
 tex_title: 'Tackling Combinatorial Distribution Shift: A Matrix Completion Perspective'
-firstpage: 1
-lastpage: 113
-page: 1-113
-order: 1
+firstpage: 3356
+lastpage: 3468
+page: 3356-3468
+order: 3356
 cycles: false
 bibtex_author: Simchowitz, Max and Gupta, Abhishek and Zhang, Kaiqing
 author:

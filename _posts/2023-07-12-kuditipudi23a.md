@@ -16,10 +16,10 @@ issn: 2640-3498
 id: kuditipudi23a
 month: 0
 tex_title: A Pretty Fast Algorithm for Adaptive Private Mean Estimation
-firstpage: 1
-lastpage: 41
-page: 1-41
-order: 1
+firstpage: 2511
+lastpage: 2551
+page: 2511-2551
+order: 2511
 cycles: false
 bibtex_author: Kuditipudi, Rohith and Duchi, John and Haque, Saminul
 author:

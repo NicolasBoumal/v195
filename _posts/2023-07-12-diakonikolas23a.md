@@ -20,10 +20,10 @@ id: diakonikolas23a
 month: 0
 tex_title: Information-Computation Tradeoffs for Learning Margin Halfspaces with Random
   Classification Noise
-firstpage: 1
-lastpage: 29
-page: 1-29
-order: 1
+firstpage: 2211
+lastpage: 2239
+page: 2211-2239
+order: 2211
 cycles: false
 bibtex_author: Diakonikolas, Ilias and Diakonikolas, Jelena and Kane, Daniel M. and
   Wang, Puqian and Zarifis, Nikos

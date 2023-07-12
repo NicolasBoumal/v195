@@ -18,10 +18,10 @@ issn: 2640-3498
 id: cesa-bianchi23a
 month: 0
 tex_title: Repeated Bilateral Trade Against a Smoothed Adversary
-firstpage: 1
-lastpage: 36
-page: 1-36
-order: 1
+firstpage: 1095
+lastpage: 1130
+page: 1095-1130
+order: 1095
 cycles: false
 bibtex_author: Cesa-Bianchi, Nicol{\`o} and Cesari, Tommaso R. and Colomboni, Roberto
   and Fusco, Federico and Leonardi, Stefano

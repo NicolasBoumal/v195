@@ -19,10 +19,10 @@ issn: 2640-3498
 id: bairaktari23a
 month: 0
 tex_title: 'Multitask Learning via Shared Features: Algorithms and Hardness'
-firstpage: 1
-lastpage: 26
-page: 1-26
-order: 1
+firstpage: 747
+lastpage: 772
+page: 747-772
+order: 747
 cycles: false
 bibtex_author: Bairaktari, Konstantina and Blanc, Guy and Tan, Li-Yang and Ullman,
   Jonathan and Zakynthinou, Lydia

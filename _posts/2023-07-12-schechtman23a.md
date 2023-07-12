@@ -23,10 +23,10 @@ id: schechtman23a
 month: 0
 tex_title: 'Orthogonal Directions Constrained Gradient Method: from non-linear equality
   constraints to Stiefel manifold'
-firstpage: 1
-lastpage: 31
-page: 1-31
-order: 1
+firstpage: 1228
+lastpage: 1258
+page: 1228-1258
+order: 1228
 cycles: false
 bibtex_author: Schechtman, Sholom and Tiapkin, Daniil and Muehlebach, Michael and
   Moulines, {\'E}ric

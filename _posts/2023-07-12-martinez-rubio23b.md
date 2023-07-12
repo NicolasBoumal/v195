@@ -22,10 +22,10 @@ id: martinez-rubio23b
 month: 0
 tex_title: Accelerated and Sparse Algorithms for Approximate Personalized PageRank
   and Beyond
-firstpage: 1
-lastpage: 25
-page: 1-25
-order: 1
+firstpage: 2852
+lastpage: 2876
+page: 2852-2876
+order: 2852
 cycles: false
 bibtex_author: Mart{\'i}nez-Rubio, David and Wirth, Elias and Pokutta, Sebastian
 author:

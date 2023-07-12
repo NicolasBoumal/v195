@@ -26,10 +26,10 @@ issn: 2640-3498
 id: daskalakis23a
 month: 0
 tex_title: The Complexity of Markov Equilibrium in Stochastic Games
-firstpage: 1
-lastpage: 55
-page: 1-55
-order: 1
+firstpage: 4180
+lastpage: 4234
+page: 4180-4234
+order: 4180
 cycles: false
 bibtex_author: Daskalakis, Constantinos and Golowich, Noah and Zhang, Kaiqing
 author:

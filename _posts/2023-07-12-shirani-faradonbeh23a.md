@@ -24,10 +24,10 @@ issn: 2640-3498
 id: shirani-faradonbeh23a
 month: 0
 tex_title: Online Reinforcement Learning in Stochastic Continuous-Time Systems
-firstpage: 1
-lastpage: 45
-page: 1-45
-order: 1
+firstpage: 612
+lastpage: 656
+page: 612-656
+order: 612
 cycles: false
 bibtex_author: Shirani Faradonbeh, Mohamad Kazem and Shirani Faradonbeh, Mohamad Sadegh
 author:

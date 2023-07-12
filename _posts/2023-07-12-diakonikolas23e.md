@@ -29,10 +29,10 @@ id: diakonikolas23e
 month: 0
 tex_title: Distribution-Independent Regression for Generalized Linear Models with
   Oblivious Corruptions
-firstpage: 1
-lastpage: 23
-page: 1-23
-order: 1
+firstpage: 5453
+lastpage: 5475
+page: 5453-5475
+order: 5453
 cycles: false
 bibtex_author: Diakonikolas, Ilias and Karmalkar, Sushrut and Park, Jong Ho and Tzamos,
   Christos

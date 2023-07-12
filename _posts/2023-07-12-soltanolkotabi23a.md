@@ -30,10 +30,10 @@ id: soltanolkotabi23a
 month: 0
 tex_title: 'Implicit Balancing and Regularization: Generalization and Convergence
   Guarantees for Overparameterized Asymmetric Matrix Sensing'
-firstpage: 1
-lastpage: 3
-page: 1-3
-order: 1
+firstpage: 5140
+lastpage: 5142
+page: 5140-5142
+order: 5140
 cycles: false
 bibtex_author: Soltanolkotabi, Mahdi and St{\"o}ger, Dominik and Xie, Changzhi
 author:

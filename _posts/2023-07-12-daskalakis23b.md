@@ -28,10 +28,10 @@ id: daskalakis23b
 month: 0
 tex_title: 'STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium
   in Nonconvex-Nonconcave Games'
-firstpage: 1
-lastpage: 53
-page: 1-53
-order: 1
+firstpage: 5146
+lastpage: 5198
+page: 5146-5198
+order: 5146
 cycles: false
 bibtex_author: Daskalakis, Constantinos and Golowich, Noah and Skoulakis, Stratis
   and Zampetakis, Emmanouil

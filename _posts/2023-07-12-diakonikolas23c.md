@@ -24,10 +24,10 @@ issn: 2640-3498
 id: diakonikolas23c
 month: 0
 tex_title: Self-Directed Linear Classification
-firstpage: 1
-lastpage: 29
-page: 1-29
-order: 1
+firstpage: 2919
+lastpage: 2947
+page: 2919-2947
+order: 2919
 cycles: false
 bibtex_author: Diakonikolas, Ilias and Kontonis, Vasilis and Tzamos, Christos and
   Zarifis, Nikos

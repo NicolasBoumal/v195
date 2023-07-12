@@ -18,10 +18,10 @@ id: diakonikolas23b
 month: 0
 tex_title: SQ Lower Bounds for Learning Mixtures of Separated and Bounded Covariance
   Gaussians
-firstpage: 1
-lastpage: 31
-page: 1-31
-order: 1
+firstpage: 2319
+lastpage: 2349
+page: 2319-2349
+order: 2319
 cycles: false
 bibtex_author: Diakonikolas, Ilias and Kane, Daniel M. and Pittas, Thanasis and Zarifis,
   Nikos

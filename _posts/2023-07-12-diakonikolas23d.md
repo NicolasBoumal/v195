@@ -29,10 +29,10 @@ issn: 2640-3498
 id: diakonikolas23d
 month: 0
 tex_title: Statistical and Computational Limits for Tensor-on-Tensor Association Detection
-firstpage: 1
-lastpage: 51
-page: 1-51
-order: 1
+firstpage: 5260
+lastpage: 5310
+page: 5260-5310
+order: 5260
 cycles: false
 bibtex_author: Diakonikolas, Ilias and Kane, Daniel M. and Luo, Yuetian and Zhang,
   Anru

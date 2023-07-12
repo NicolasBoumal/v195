@@ -23,10 +23,10 @@ id: criscitiello23a
 month: 0
 tex_title: 'Curvature and complexity: Better lower bounds for geodesically convex
   optimization'
-firstpage: 1
-lastpage: 45
-page: 1-45
-order: 1
+firstpage: 2969
+lastpage: 3013
+page: 2969-3013
+order: 2969
 cycles: false
 bibtex_author: Criscitiello, Christopher and Boumal, Nicolas
 author:

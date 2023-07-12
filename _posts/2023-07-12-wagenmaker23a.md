@@ -33,10 +33,10 @@ id: wagenmaker23a
 month: 0
 tex_title: 'Instance-Optimality in Interactive Decision Making: Toward a Non-Asymptotic
   Theory'
-firstpage: 1
-lastpage: 151
-page: 1-151
-order: 1
+firstpage: 1322
+lastpage: 1472
+page: 1322-1472
+order: 1322
 cycles: false
 bibtex_author: Wagenmaker, Andrew J. and Foster, Dylan J.
 author:

@@ -17,10 +17,10 @@ issn: 2640-3498
 id: pillaud-vivien23a
 month: 0
 tex_title: Kernelized Diffusion Maps
-firstpage: 1
-lastpage: 24
-page: 1-24
-order: 1
+firstpage: 5236
+lastpage: 5259
+page: 5236-5259
+order: 5236
 cycles: false
 bibtex_author: Pillaud-Vivien, Loucas and Bach, Francis
 author:

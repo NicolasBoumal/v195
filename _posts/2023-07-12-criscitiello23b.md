@@ -18,10 +18,10 @@ issn: 2640-3498
 id: criscitiello23b
 month: 0
 tex_title: 'Open Problem: Polynomial linearly-convergent method for g-convex optimization?'
-firstpage: 1
-lastpage: 7
-page: 1-7
-order: 1
+firstpage: 5950
+lastpage: 5956
+page: 5950-5956
+order: 5950
 cycles: false
 bibtex_author: Criscitiello, Christopher and Mart{\'i}nez-Rubio, David and Boumal,
   Nicolas

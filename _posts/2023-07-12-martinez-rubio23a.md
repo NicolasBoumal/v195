@@ -23,10 +23,10 @@ id: martinez-rubio23a
 month: 0
 tex_title: 'Accelerated Riemannian Optimization: Handling Constraints with a Prox
   to Bound Geometric Penalties'
-firstpage: 1
-lastpage: 35
-page: 1-35
-order: 1
+firstpage: 359
+lastpage: 393
+page: 359-393
+order: 359
 cycles: false
 bibtex_author: Mart{\'i}nez-Rubio, David and Pokutta, Sebastian
 author:

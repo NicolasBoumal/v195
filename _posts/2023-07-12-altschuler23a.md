@@ -34,6 +34,10 @@ id: altschuler23a
 month: 0
 tex_title: Resolving the Mixing Time of the Langevin Algorithm to its Stationary Distribution
   for Log-Concave Sampling
+firstpage: 2509
+lastpage: 2510
+page: 2509-2510
+order: 2509
 cycles: false
 bibtex_author: Altschuler, Jason and Talwar, Kunal
 author:

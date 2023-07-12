@@ -17,10 +17,10 @@ issn: 2640-3498
 id: muthukumar23a
 month: 0
 tex_title: Sparsity-aware generalization theory for deep neural networks
-firstpage: 1
-lastpage: 32
-page: 1-32
-order: 1
+firstpage: 5311
+lastpage: 5342
+page: 5311-5342
+order: 5311
 cycles: false
 bibtex_author: Muthukumar, Ramchandran and Sulam, Jeremias
 author:
